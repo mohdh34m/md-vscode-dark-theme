@@ -1,0 +1,27 @@
+{
+  "name": "md-theme",
+  "displayName": "MD Theme",
+  "description": "MD Dark Theme",
+  "version": "0.0.1",
+  "publisher": "MohamedHasan",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"theme",
+		"github",
+		"dark"
+	],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MD Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MD Theme-color-theme.json"
+      }
+    ]
+  }
+}
