@@ -10,4 +10,4 @@
 </div>
 <br />
 
-[![image](https://i.postimg.cc/tgFcW0GK/default.png)](https://postimg.cc/4KNwRSdP)
+[![design.png](https://i.postimg.cc/8Cg8Dhj9/design.png)](https://postimg.cc/4YP2QHvQ)
