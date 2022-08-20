@@ -3,8 +3,12 @@
   "displayName": "MD Theme",
   "description": "MD Dark Theme",
   "icon": "images/MDLogo2.png",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "MohamedHasan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohdh34m/md-vscode-dark-theme.git"
+  },
   "engines": {
     "vscode": "^1.69.0"
   },
@@ -12,16 +16,21 @@
     "Themes"
   ],
   "keywords": [
-		"theme",
-		"github",
-		"dark"
-	],
+    "theme",
+    "github",
+    "dark"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "MD Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/MD Theme-color-theme.json"
+      },
+      {
+        "label": "MD Theme Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MD Theme Pro-color-theme.json"
       }
     ]
   }
